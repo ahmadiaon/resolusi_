@@ -1,5 +1,6 @@
 Ahmadi Resolusi
 - Belajar Git/Github
+  link : https://github.com/ahmadiaon/resolusi_/blob/github/github.txt
 - Belajar Figma
   link : https://github.com/ahmadiaon/resolusi_/blob/figma/figma.txt
 - Belajar CI 4
