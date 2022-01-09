@@ -2,5 +2,5 @@ Ahmadi Resolusi
 - Belajar Git/Github
 - Belajar Figma
   ^ User : 
-      * username : 
-      * password : 
+      * username : dataahmadi2020@gmail.com
+      * password : via google
