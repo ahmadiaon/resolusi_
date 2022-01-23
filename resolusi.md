@@ -1,3 +1,4 @@
+![js5](https://user-images.githubusercontent.com/76961307/150665585-0db8715a-7177-4388-9656-3469210c6681.png)
 Ahmadi Resolusi
 - Belajar Git/Github
   - link : https://github.com/ahmadiaon/resolusi_/blob/github/github.txt
